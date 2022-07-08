@@ -1,0 +1,10 @@
+DIR - LISTAR TODAS AS PASTAS
+CD .. - DESCER O NIVEL DA PASTA
+CD WINDOWS - ENTRA NA PASTA Q EU QUERO
+DIR MOSTRA TODO O CONTEUDO DA PASTA
+MKDIR WORKPACE - CRIA UMA PASTA
+CLS - LIMPA O PROMPT
+echo hello > hello.txt - para criar um arquivo txt dentro da pasta
+dell workspace - deleta todos os arquivos que estão dentro do repositorio
+rmdir workspace /S /Q - remove o diretorio workspace
+
